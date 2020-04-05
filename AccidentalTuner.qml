@@ -711,28 +711,47 @@ MuseScore {
 			
 		} 	//Grid
 		
-		Button {
-			id: bSaveToDisk
-			text: "Save to Disk"
-			anchors.horizontalCenter: parent.horizontalCenter
+		Grid {
+			id: g3
+			columns: 2
+			rows: 1
+			columnSpacing: 10
+			rowSpacing: 10
 			anchors.top: g2.bottom
-			anchors.topMargin: 20
+			anchors.topMargin: 10
+			anchors.horizontalCenter: parent.horizontalCenter
+
+
+			Button {
+				id: bSaveToDisk
+				text: "Save to Disk"
+
+				onClicked: {
+					tuningsWindow.clearTuningsWindowStatusBar();
+					var t="";
+					for (var i=0; i<accidentalList.count;i++)
+						t+= JSON.stringify(accidentalList.get(i))+"\n";
+					//console.log(t);
 					
-			onClicked: {
-				tuningsWindow.clearTuningsWindowStatusBar();
-				var t="";
-				for (var i=0; i<accidentalList.count;i++)
-					t+= JSON.stringify(accidentalList.get(i))+"\n";
-				//console.log(t);
-				
-				if (tuningSettingsFile.write(t)){
-					console.log("File written to " + tuningSettingsFile.source);
-					tuningsWindowStatusBar.text = "Saved to " + tuningSettingsFile.source;
-					
+					if (tuningSettingsFile.write(t)){
+						console.log("File written to " + tuningSettingsFile.source);
+						tuningsWindowStatusBar.text = "Saved to " + tuningSettingsFile.source;
+
+					}
+					else {
+						console.log("Could not save settings");
+						tuningsWindowStatusBar.text = "Could not save to file " + tuningSettingsFile.source;
+					}
 				}
-				else {
-					console.log("Could not save settings");
-					tuningsWindowStatusBar.text = "Could not save to file " + tuningSettingsFile.source;
+			}
+
+			Button {
+				id: bCloseModal
+				text: "Close"
+				visible: Qt.platform.os === 'osx'
+
+				onClicked: {
+					tuningsWindow.hide()
 				}
 			}
 		}
