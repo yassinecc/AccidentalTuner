@@ -27,473 +27,473 @@ MuseScore {
 				  title: "None"
                   tuning: 0
                   enabled: 1
-				  image: "AT_NONE.png"
+				  image: "res/AT_NONE.png"
             }
 			ListElement {
 					name:"FLAT"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT.png"
+					image: "res/AT_FLAT.png"
 			}
 			ListElement {
 					name:"SHARP"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP.png"
+					image: "res/AT_SHARP.png"
 			}
 			ListElement {
 					name:"FLAT_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_ARROW_UP.png"
+					image: "res/AT_FLAT_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"FLAT_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_ARROW_DOWN.png"
+					image: "res/AT_FLAT_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"NATURAL_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_ARROW_UP.png"
+					image: "res/AT_NATURAL_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"NATURAL_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_ARROW_DOWN.png"
+					image: "res/AT_NATURAL_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"SHARP_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_ARROW_UP.png"
+					image: "res/AT_SHARP_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"SHARP_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_ARROW_DOWN.png"
+					image: "res/AT_SHARP_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"SHARP2_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP2_ARROW_UP.png"
+					image: "res/AT_SHARP2_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"SHARP2_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP2_ARROW_DOWN.png"
+					image: "res/AT_SHARP2_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"FLAT2_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT2_ARROW_UP.png"
+					image: "res/AT_FLAT2_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"FLAT2_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT2_ARROW_DOWN.png"
+					image: "res/AT_FLAT2_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"MIRRORED_FLAT"
 					tuning: 0
 					enabled: 0
-					image: "AT_MIRRORED_FLAT.png"
+					image: "res/AT_MIRRORED_FLAT.png"
 			}
 
 			ListElement {
 					name:"MIRRORED_FLAT2"
 					tuning: 0
 					enabled: 0
-					image: "AT_MIRRORED_FLAT2.png"
+					image: "res/AT_MIRRORED_FLAT2.png"
 			}
 
 			ListElement {
 					name:"SHARP_SLASH"
 					tuning: 50
 					enabled: 1
-					image: "AT_SHARP_SLASH.png"
+					image: "res/AT_SHARP_SLASH.png"
 			}
 
 			ListElement {
 					name:"SHARP_SLASH4"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_SLASH4.png"
+					image: "res/AT_SHARP_SLASH4.png"
 			}
 
 			ListElement {
 					name:"FLAT_SLASH2"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_SLASH2.png"
+					image: "res/AT_FLAT_SLASH2.png"
 			}
 
 			ListElement {
 					name:"FLAT_SLASH"
 					tuning: -50
 					enabled: 1
-					image: "AT_FLAT_SLASH.png"
+					image: "res/AT_FLAT_SLASH.png"
 			}
 
 			ListElement {
 					name:"SHARP_SLASH3"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_SLASH3.png"
+					image: "res/AT_SHARP_SLASH3.png"
 			}
 
 			ListElement {
 					name:"SHARP_SLASH2"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_SLASH2.png"
+					image: "res/AT_SHARP_SLASH2.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_FLAT_ONE_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_FLAT_ONE_ARROW_DOWN.png"
+					image: "res/AT_DOUBLE_FLAT_ONE_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"FLAT_ONE_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_ONE_ARROW_DOWN.png"
+					image: "res/AT_FLAT_ONE_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"NATURAL_ONE_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_ONE_ARROW_DOWN.png"
+					image: "res/AT_NATURAL_ONE_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"SHARP_ONE_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_ONE_ARROW_DOWN.png"
+					image: "res/AT_SHARP_ONE_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_SHARP_ONE_ARROW_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_SHARP_ONE_ARROW_DOWN.png"
+					image: "res/AT_DOUBLE_SHARP_ONE_ARROW_DOWN.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_FLAT_ONE_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_FLAT_ONE_ARROW_UP.png"
+					image: "res/AT_DOUBLE_FLAT_ONE_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"FLAT_ONE_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_ONE_ARROW_UP.png"
+					image: "res/AT_FLAT_ONE_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"NATURAL_ONE_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_ONE_ARROW_UP.png"
+					image: "res/AT_NATURAL_ONE_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"SHARP_ONE_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_ONE_ARROW_UP.png"
+					image: "res/AT_SHARP_ONE_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_SHARP_ONE_ARROW_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_SHARP_ONE_ARROW_UP.png"
+					image: "res/AT_DOUBLE_SHARP_ONE_ARROW_UP.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_FLAT_TWO_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_FLAT_TWO_ARROWS_DOWN.png"
+					image: "res/AT_DOUBLE_FLAT_TWO_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"FLAT_TWO_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_TWO_ARROWS_DOWN.png"
+					image: "res/AT_FLAT_TWO_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"NATURAL_TWO_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_TWO_ARROWS_DOWN.png"
+					image: "res/AT_NATURAL_TWO_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"SHARP_TWO_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_TWO_ARROWS_DOWN.png"
+					image: "res/AT_SHARP_TWO_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_SHARP_TWO_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_SHARP_TWO_ARROWS_DOWN.png"
+					image: "res/AT_DOUBLE_SHARP_TWO_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_FLAT_TWO_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_FLAT_TWO_ARROWS_UP.png"
+					image: "res/AT_DOUBLE_FLAT_TWO_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"FLAT_TWO_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_TWO_ARROWS_UP.png"
+					image: "res/AT_FLAT_TWO_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"NATURAL_TWO_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_TWO_ARROWS_UP.png"
+					image: "res/AT_NATURAL_TWO_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"SHARP_TWO_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_TWO_ARROWS_UP.png"
+					image: "res/AT_SHARP_TWO_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_SHARP_TWO_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_SHARP_TWO_ARROWS_UP.png"
+					image: "res/AT_DOUBLE_SHARP_TWO_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_FLAT_THREE_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_FLAT_THREE_ARROWS_DOWN.png"
+					image: "res/AT_DOUBLE_FLAT_THREE_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"FLAT_THREE_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_THREE_ARROWS_DOWN.png"
+					image: "res/AT_FLAT_THREE_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"NATURAL_THREE_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_THREE_ARROWS_DOWN.png"
+					image: "res/AT_NATURAL_THREE_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"SHARP_THREE_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_THREE_ARROWS_DOWN.png"
+					image: "res/AT_SHARP_THREE_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_SHARP_THREE_ARROWS_DOWN"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_SHARP_THREE_ARROWS_DOWN.png"
+					image: "res/AT_DOUBLE_SHARP_THREE_ARROWS_DOWN.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_FLAT_THREE_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_FLAT_THREE_ARROWS_UP.png"
+					image: "res/AT_DOUBLE_FLAT_THREE_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"FLAT_THREE_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_THREE_ARROWS_UP.png"
+					image: "res/AT_FLAT_THREE_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"NATURAL_THREE_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_THREE_ARROWS_UP.png"
+					image: "res/AT_NATURAL_THREE_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"SHARP_THREE_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_THREE_ARROWS_UP.png"
+					image: "res/AT_SHARP_THREE_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_SHARP_THREE_ARROWS_UP"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_SHARP_THREE_ARROWS_UP.png"
+					image: "res/AT_DOUBLE_SHARP_THREE_ARROWS_UP.png"
 			}
 
 			ListElement {
 					name:"LOWER_ONE_SEPTIMAL_COMMA"
 					tuning: 0
 					enabled: 0
-					image: "AT_LOWER_ONE_SEPTIMAL_COMMA.png"
+					image: "res/AT_LOWER_ONE_SEPTIMAL_COMMA.png"
 			}
 
 			ListElement {
 					name:"RAISE_ONE_SEPTIMAL_COMMA"
 					tuning: 0
 					enabled: 0
-					image: "AT_RAISE_ONE_SEPTIMAL_COMMA.png"
+					image: "res/AT_RAISE_ONE_SEPTIMAL_COMMA.png"
 			}
 
 			ListElement {
 					name:"LOWER_TWO_SEPTIMAL_COMMAS"
 					tuning: 0
 					enabled: 0
-					image: "AT_LOWER_TWO_SEPTIMAL_COMMAS.png"
+					image: "res/AT_LOWER_TWO_SEPTIMAL_COMMAS.png"
 			}
 
 			ListElement {
 					name:"RAISE_TWO_SEPTIMAL_COMMAS"
 					tuning: 0
 					enabled: 0
-					image: "AT_RAISE_TWO_SEPTIMAL_COMMAS.png"
+					image: "res/AT_RAISE_TWO_SEPTIMAL_COMMAS.png"
 			}
 
 			ListElement {
 					name:"LOWER_ONE_UNDECIMAL_QUARTERTONE"
 					tuning: 0
 					enabled: 0
-					image: "AT_LOWER_ONE_UNDECIMAL_QUARTERTONE.png"
+					image: "res/AT_LOWER_ONE_UNDECIMAL_QUARTERTONE.png"
 			}
 
 			ListElement {
 					name:"RAISE_ONE_UNDECIMAL_QUARTERTONE"
 					tuning: 0
 					enabled: 0
-					image: "AT_RAISE_ONE_UNDECIMAL_QUARTERTONE.png"
+					image: "res/AT_RAISE_ONE_UNDECIMAL_QUARTERTONE.png"
 			}
 
 			ListElement {
 					name:"LOWER_ONE_TRIDECIMAL_QUARTERTONE"
 					tuning: 0
 					enabled: 0
-					image: "AT_LOWER_ONE_TRIDECIMAL_QUARTERTONE.png"
+					image: "res/AT_LOWER_ONE_TRIDECIMAL_QUARTERTONE.png"
 			}
 
 			ListElement {
 					name:"RAISE_ONE_TRIDECIMAL_QUARTERTONE"
 					tuning: 0
 					enabled: 0
-					image: "AT_RAISE_ONE_TRIDECIMAL_QUARTERTONE.png"
+					image: "res/AT_RAISE_ONE_TRIDECIMAL_QUARTERTONE.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_FLAT_EQUAL_TEMPERED"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_FLAT_EQUAL_TEMPERED.png"
+					image: "res/AT_DOUBLE_FLAT_EQUAL_TEMPERED.png"
 			}
 
 			ListElement {
 					name:"FLAT_EQUAL_TEMPERED"
 					tuning: 0
 					enabled: 0
-					image: "AT_FLAT_EQUAL_TEMPERED.png"
+					image: "res/AT_FLAT_EQUAL_TEMPERED.png"
 			}
 
 			ListElement {
 					name:"NATURAL_EQUAL_TEMPERED"
 					tuning: 0
 					enabled: 0
-					image: "AT_NATURAL_EQUAL_TEMPERED.png"
+					image: "res/AT_NATURAL_EQUAL_TEMPERED.png"
 			}
 
 			ListElement {
 					name:"SHARP_EQUAL_TEMPERED"
 					tuning: 0
 					enabled: 0
-					image: "AT_SHARP_EQUAL_TEMPERED.png"
+					image: "res/AT_SHARP_EQUAL_TEMPERED.png"
 			}
 
 			ListElement {
 					name:"DOUBLE_SHARP_EQUAL_TEMPERED"
 					tuning: 0
 					enabled: 0
-					image: "AT_DOUBLE_SHARP_EQUAL_TEMPERED.png"
+					image: "res/AT_DOUBLE_SHARP_EQUAL_TEMPERED.png"
 			}
 
 			ListElement {
 					name:"QUARTER_FLAT_EQUAL_TEMPERED"
 					tuning: 0
 					enabled: 0
-					image: "AT_QUARTER_FLAT_EQUAL_TEMPERED.png"
+					image: "res/AT_QUARTER_FLAT_EQUAL_TEMPERED.png"
 			}
 
 			ListElement {
 					name:"QUARTER_SHARP_EQUAL_TEMPERED"
 					tuning: 0
 					enabled: 0
-					image: "AT_QUARTER_SHARP_EQUAL_TEMPERED.png"
+					image: "res/AT_QUARTER_SHARP_EQUAL_TEMPERED.png"
 			}
 
 			ListElement {
 					name:"SORI"
 					tuning: 0
 					enabled: 0
-					image: "AT_SORI.png"
+					image: "res/AT_SORI.png"
 			}
 
 			ListElement {
 					name:"KORON"
 					tuning: 0
 					enabled: 0
-					image: "AT_KORON.png"
+					image: "res/AT_KORON.png"
 			}
       }
       
@@ -564,7 +564,7 @@ MuseScore {
 					cache: false
 					x: 28
 					y: 28
-					source: {Qt.resolvedUrl('AT_FLAT_SLASH.png');}
+					source: {Qt.resolvedUrl('res/AT_FLAT_SLASH.png');}
 					anchors.horizontalCenter: parent.horizontalCenter
 					anchors.verticalCenter: parent.verticalCenter
 				}
@@ -916,7 +916,7 @@ MuseScore {
 				cache: false
 				x: 28
 				y: 28
-				source: {Qt.resolvedUrl('AT_NONE.png');}
+				source: {Qt.resolvedUrl('res/AT_NONE.png');}
 			}
 			
 			Image {
@@ -924,7 +924,7 @@ MuseScore {
 				cache: false
 				x: 28
 				y: 28
-				source: {Qt.resolvedUrl('AT_NONE.png');}
+				source: {Qt.resolvedUrl('res/AT_NONE.png');}
 			}
 			
 			Image {
@@ -932,7 +932,7 @@ MuseScore {
 				cache: false
 				x: 28
 				y: 28
-				source: {Qt.resolvedUrl('AT_NONE.png');}
+				source: {Qt.resolvedUrl('res/AT_NONE.png');}
 			}
 			
 			Image {
@@ -940,7 +940,7 @@ MuseScore {
 				cache: false
 				x: 28
 				y: 28
-				source: {Qt.resolvedUrl('AT_NONE.png');}
+				source: {Qt.resolvedUrl('res/AT_NONE.png');}
 			}
 			
 			Image {
@@ -948,7 +948,7 @@ MuseScore {
 				cache: false
 				x: 28
 				y: 28
-				source: {Qt.resolvedUrl('AT_NONE.png');}
+				source: {Qt.resolvedUrl('res/AT_NONE.png');}
 			}
 			
 			Image {
@@ -956,7 +956,7 @@ MuseScore {
 				cache: false
 				x: 28
 				y: 28
-				source: {Qt.resolvedUrl('AT_NONE.png');}
+				source: {Qt.resolvedUrl('res/AT_NONE.png');}
 			}
 			
 			Image {
@@ -964,7 +964,7 @@ MuseScore {
 				cache: false
 				x: 28
 				y: 28
-				source: {Qt.resolvedUrl('AT_NONE.png');}
+				source: {Qt.resolvedUrl('res/AT_NONE.png');}
 			}
 			
 			Button {
